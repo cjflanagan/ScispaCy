@@ -1,4 +1,4 @@
-ScispaCy for Named Entity Recognition
+**ScispaCy for Named Entity Recognition**
 
 Named entity recognition (‘NER’) is a method of extracting knowledge from documents. It allows us (and machines) to better understand their contents and to ask specific questions about them.
 
